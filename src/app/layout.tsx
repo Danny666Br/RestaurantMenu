@@ -22,7 +22,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Pastelería Florida — Pedidos de Desayuno",
-  description: "Selecciona tu desayuno del menú de la Pastelería Florida. Evento: Jueves 10 de Abril, 2025.",
+  description: "Selecciona tu desayuno del menú de la Pastelería Florida. Evento: Jueves 09 de Abril, 2026.",
 };
 
 export default function RootLayout({
